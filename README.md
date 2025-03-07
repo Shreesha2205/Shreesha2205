@@ -1,7 +1,7 @@
 # Hello there, I'm Shreesha S Shetty! 👋  
 
 ## 🚀 About Me  
-- 🎓 I am an Undergraduate Engineering Student who's currently working on improving my coding skills, Learning and Exploring new technologies.
+- 🎓 An Undergraduate Engineering Student who's currently working on improving my coding skills, Learning and Exploring new technologies.
 - 💻 Passionate about Data Structures and Algorithms, AI?ML, Android Development and Full-Stack Development  
 - 📌 "Developing strong problem-solving skills while deepening my expertise in Go (Golang) for high-performance applications."
 - 🏋️‍♂️ Fitness enthusiast, training consistently for Physical and Mental health.
