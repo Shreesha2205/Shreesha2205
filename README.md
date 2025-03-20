@@ -12,7 +12,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,tailwind,react,nodejs,mongodb,figma,dart,flutter,github,go,git,autocad" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,tailwind,react,nodejs,github,git,autocad" />
   </a
 </p>
 
@@ -21,7 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shreesha2205&show_icons=true&theme=radical" alt="Shreesha's GitHub Stats"/>
 </p>
 
-✨ *Let's collaborate and build something awesome!* 🚀  
+                                                ✨ *Let's collaborate and build something awesome!* 🚀  
 
 ## 📬 Connect with Me  
 <p align="left">
