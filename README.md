@@ -3,7 +3,7 @@
 ## 🚀 About Me  
 - 🎓 An Undergraduate Engineering Student who's currently working on improving my coding skills, learning, and exploring new technologies.  
 - 💻 Passionate about Data Structures and Algorithms, AI/ML, Android Development, and Full-Stack Development.  
-- 📌 "Developing strong problem-solving skills while deepening my expertise in Go (Golang) for high-performance applications."  
+- 📌 "Developing strong problem-solving skills while deepening my expertise  for high-performance applications."  
 - 🏋️‍♂️ Fitness enthusiast, training consistently for physical and mental health.  
 
 ## 🔧 Technologies & Tools  
